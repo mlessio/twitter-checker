@@ -1,7 +1,7 @@
 {
   "name": "twitter-checker",
   "version": "1.0.0",
-  "description": "Simple library to check if a twitter account already exists.",
+  "description": "A simple library that checks if a twitter account already exists.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
