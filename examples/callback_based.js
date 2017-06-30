@@ -7,7 +7,7 @@ TwitterChecker.check('twitter', function(err, data){
     console.error(err);
     return;
   }
-  console.log("Username exists:", data.exists);
+  console.log("Username twitter exists:", data.exists);
 });
 
 //checks for an, hopefully, unexisting address
@@ -16,5 +16,5 @@ TwitterChecker.check('twitter37i4ksfhdskfh7i3knbd', function(err, data){
     console.error(err);
     return;
   }
-  console.log("Username exists:", data.exists);
+  console.log("Username twitter37i4ksfhdskfh7i3knbd exists:", data.exists);
 });
