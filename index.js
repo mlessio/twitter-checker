@@ -2,6 +2,7 @@ var request = require('request');
 
 const CHECK_URL = 'https://twitter.com/';
 
+
 var TwitterChecker = function() {
 
 };
